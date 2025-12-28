@@ -1,6 +1,8 @@
 # sn-lumberjack
 Script de actividad de leñador/a ESX con sistema de talado semi-real para servidores de GTA RP
 
+Preview: https://youtu.be/DbBV0i4Ic1A
+
 - ESTE SCRIPT TIENE COMO DEPENDENCIA EL
 - ox_lib https://github.com/overextended/ox_lib
 - ox_inventory https://github.com/overextended/ox_inventory
